@@ -1,6 +1,6 @@
 # NerdLaucher
 
- <img src="https://drive.google.com/uc?id=1bZDeANAPx5qSfU1OslY83LHYt8uj818m" align="center" width="200"> 
+ <img src="https://drive.google.com/uc?id=1TwBRaB4rol3yvjbl0LvHs-IYyat16H4l" align="center" width="200"> 
  
  # Description
  
