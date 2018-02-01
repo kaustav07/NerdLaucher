@@ -1,4 +1,4 @@
-# NerdLaucher
+# NerdLauncher
 
  <img src="https://drive.google.com/uc?id=1TwBRaB4rol3yvjbl0LvHs-IYyat16H4l" align="center" width="200"> 
  
